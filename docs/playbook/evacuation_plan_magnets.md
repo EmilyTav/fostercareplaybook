@@ -51,5 +51,3 @@ We're working to collect exact data on this, but we believe this increases the e
 ### Who's Doing This?
 
 Clinton County MDHHS, Michigan
-
-### Real-World Examples

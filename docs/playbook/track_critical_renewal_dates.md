@@ -42,21 +42,18 @@ Current CPR certification, training, pet vaccinations, and other requirements ar
 ### How To Do This
 
 * Add expiration dates to your calendar. 
+
 * Turn on  a reminder notification 30-60 days ahead of time.
 
-Send a reminder to families in any of the following ways: 
- 
-* Shared calendar invite
+* Send a reminder to families in any of the following ways:
+⋅⋅⋅ * Shared calendar invite
+⋅⋅⋅ * Mail (physical)
+⋅⋅⋅ * Email 
+⋅⋅⋅ * Text
 
-* Mail (physical)
+* If possible, ask families what their preferred mode of communication is, and send the reminder that way. 
 
-* Email 
-
-* Text
-
-If possible, ask families what their preferred mode of communication is, and send the reminder that way. 
-
-Suggest tracking these dates in your child welfare IT system, for inclusion in a future update.
+* Suggest tracking these dates in your child welfare IT system, for inclusion in a future update.
 
 ### Outcomes Data
 
@@ -67,5 +64,3 @@ We are still collecting concrete data, but suspect that this:
 ### Who's Doing This?
 
 Clinton County MDHHS, Michigan
-
-### Real-World Examples

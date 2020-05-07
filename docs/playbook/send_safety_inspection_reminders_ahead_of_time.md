@@ -66,5 +66,3 @@ We are still collecting concrete data, but suspect that this:
 ### Who's Doing This?
 
 Rhode Island
-
-### Real-World Examples

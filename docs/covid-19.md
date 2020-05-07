@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Information
-description: Best practices related to child welfare and coronavirus.
+description: Our partners at Think of Us have pulled together [best practices related to child welfare and coronavirus](https://thinkofus.gitbook.io/command-center/)
 layout: page
 sidenav: sidebar
 subnav:

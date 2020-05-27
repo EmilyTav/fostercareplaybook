@@ -1,6 +1,6 @@
 ---
 title: Extended Foster Care Plays
-description: Best practices related to extended foster care.
+description: [Best practices related to extended foster care.](https://thinkofus.gitbook.io/command-center/)
 layout: page
 sidenav: sidebar
 subnav:
